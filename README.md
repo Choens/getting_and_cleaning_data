@@ -17,6 +17,9 @@ Thus, the file run_analysis.R imports the data, and then calls three
 other R files (only two of which are actually necessary) to create the
 tidy data sets required by this class.
 
+This file will list, describe and explain the important files in the
+repo. At the end of the file is a quick list of resources / citations.
+
 ## Data Import
 
 The file, run_analysis.R, contains my code for importing the text
