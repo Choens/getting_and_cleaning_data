@@ -94,7 +94,7 @@ qry <- paste(
     ,"GROUP BY subject, stat_group"
     ,sep = " "
     )
-combined_all <- sqldf(qry)
+combined_simplified <- sqldf(qry)
 
 
 
