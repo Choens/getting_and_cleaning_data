@@ -88,5 +88,16 @@ syntax.
 
 I apologize if this makes grading my work more difficult.
 
+## Citations / Resources
 
+_R_
+R Core Team (2013). R: A language and environment for statistical
+computing. R Foundation for Statistical Computing, Vienna, Austria.
+URL http://www.R-project.org/.
 
+_SQLDF_
+G. Grothendieck (2014). sqldf: Perform SQL Selects on R Data Frames.
+R package version 0.4-7.1. http://CRAN.R-project.org/package=sqldf
+
+_Class Instructions_
+https://class.coursera.org/getdata-004/human_grading/view/courses/972137/assessments/3/submissions
