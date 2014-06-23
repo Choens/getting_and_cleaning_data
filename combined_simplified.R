@@ -96,6 +96,7 @@ qry <- paste(
     )
 combined_simplified <- sqldf(qry)
 
-
+## You can use read.csv() to import this file, since that is really what it is.
+write.csv(combined_simplified, "combined_simplified.txt", row.names=FALSE)
 
 
